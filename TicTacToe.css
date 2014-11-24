@@ -1,0 +1,14 @@
+#box{
+display:block;
+width:302px;
+height:302px;
+border:1px blue
+}
+
+input{
+width:100px;
+height:100px;
+border:none;
+font-size:70px
+font-color:blue
+}
